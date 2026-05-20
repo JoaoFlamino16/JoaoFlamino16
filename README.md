@@ -2,7 +2,7 @@
 
 **`Estudante de Programação / Estudante de TI`**
 
-_Me chamo João Victor Soares,tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio e finalizei o curso de Análise e Desenvolvimento de Sistemas. Atualmente, curso Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados._
+_Meu nome é João Victor Soares, tenho 26 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de Informação. Atualmente, estou em transição de área, buscando novos desafios e oportunidades dentro do setor de tecnologia. Sou apaixonado por tecnologia, gosto muito da área e estou sempre em busca de novos aprendizados e evolução profissional._
 
 <p align="left">
   </a>
@@ -16,9 +16,7 @@ _Me chamo João Victor Soares,tenho 25 anos e sou natural de São Paulo. Conclu�
 </p>
             
 
-
 #
-
 
 ### _Linguagens_
 <br>
@@ -55,22 +53,9 @@ _Me chamo João Victor Soares,tenho 25 anos e sou natural de São Paulo. Conclu�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+
 <br/>
 <br/>
 
