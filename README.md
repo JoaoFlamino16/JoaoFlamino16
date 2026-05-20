@@ -76,19 +76,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de I
 
 ---
 
-## 📊 _Estatísticas_
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFlamino16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlamino16&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 💻 _Atualmente estudando_
+## 💻 _Atualmente estudando e revisando_
 
 - _Lógica de Programação_
 - _Git e GitHub_
