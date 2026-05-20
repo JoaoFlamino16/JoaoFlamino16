@@ -5,7 +5,7 @@
 _Meu nome é João Victor Soares, tenho 26 anos e sou natural de São Paulo.  
 Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de Informação. Atualmente, estou em transição de área, buscando novos desafios e oportunidades dentro do setor de tecnologia. Sou apaixonado por tecnologia, gosto muito da área e estou sempre em busca de novos aprendizados e evolução profissional._
 
----
+____
 
 <p align="left">
     <a href="https://github.com/JoaoFlamino16?tab=followers">
@@ -19,7 +19,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de I
 
 </p>
 
----
+____
 
 ## 🚀 _Linguagens e Tecnologias_
 
@@ -74,7 +74,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de I
 <br/>
 <br/>
 
----
+____
 
 ## 💻 _Atualmente estudando e revisando_
 
