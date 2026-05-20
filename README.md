@@ -54,7 +54,6 @@ _Meu nome é João Victor Soares, tenho 26 anos e sou natural de São Paulo. Sou
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
-/>
 
 <br/>
 <br/>
