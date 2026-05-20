@@ -21,7 +21,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de I
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## 🚀 _Linguagens e Tecnologias_
 
 <p align="left">
 <img 
@@ -76,32 +76,28 @@ Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de I
 
 ---
 
-## 📊 Estatísticas
+## 📊 _Estatísticas_
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoFlamino16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<div align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlamino16&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFlamino16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlamino16&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 💻 Atualmente estudando
+## 💻 _Atualmente estudando_
 
-- Lógica de Programação
-- Git e GitHub
-- HTML e CSS
-- JavaScript
-- Desenvolvimento Front-End
+- _Lógica de Programação_
+- _Git e GitHub_
+- _HTML e CSS_
+- _JavaScript_
+- _Desenvolvimento Front-End_
 
 ---
 
-## 🎯 Objetivo
+## 🎯 _Objetivo_
 
-Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades, adquirir experiência prática e crescer profissionalmente como desenvolvedor.
+_Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades, adquirir experiência prática e crescer profissionalmente como desenvolvedor._
