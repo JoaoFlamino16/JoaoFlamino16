@@ -5,8 +5,6 @@
 _Meu nome é João Victor Soares, tenho 26 anos e sou natural de São Paulo.  
 Sou formado em Análise e Desenvolvimento de Sistemas e também em Sistemas de Informação. Atualmente, estou em transição de área, buscando novos desafios e oportunidades dentro do setor de tecnologia. Sou apaixonado por tecnologia, gosto muito da área e estou sempre em busca de novos aprendizados e evolução profissional._
 
-____
-
 <p align="left">
     <a href="https://github.com/JoaoFlamino16?tab=followers">
         <img 
@@ -15,11 +13,7 @@ ____
             src="https://custom-icon-badges.demolab.com/github/followers/JoaoFlamino16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-
-
 </p>
-
-____
 
 ## 🚀 _Linguagens e Tecnologias_
 
@@ -74,8 +68,6 @@ ____
 <br/>
 <br/>
 
-____
-
 ## 💻 _Atualmente estudando e revisando_
 
 - _Lógica de Programação_
@@ -83,8 +75,6 @@ ____
 - _HTML e CSS_
 - _JavaScript_
 - _Desenvolvimento Front-End_
-
----
 
 ## 🎯 _Objetivo_
 
